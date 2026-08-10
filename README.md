@@ -1,5 +1,7 @@
 # already-good-enough
 
+> 📖 **[Read in English](README.en.md)**
+
 > 你已经够好了。 一个用来**安静接住人**的 Agent Skill。
 
 它不做心灵鸡汤，不灌正能量，不教你怎么做人。

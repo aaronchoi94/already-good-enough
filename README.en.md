@@ -1,5 +1,7 @@
 # already-good-enough
 
+> 📖 **[Read in Chinese 中文](README.md)**
+
 > You are already enough. An Agent Skill for **quietly holding space** for people.
 
 It is not a "chicken soup for the soul" bot. It does not pump positivity, and it does not lecture you on how to live.
