@@ -34,11 +34,12 @@
 already-good-enough/
 ├── SKILL.md                    # 触发判断 + 核心原则 + 回应结构
 ├── references/
-│   ├── responses.md            # 话术库：8 类场景的接人话术 + 反面清单
+│   ├── responses.md            # 话术库：9 类场景的接人话术 + 反面清单 + English Mode
 │   └── boundaries.md           # 边界声明：这不是心理治疗
 ├── examples/
 │   └── conversations.md        # 完整对话示例
-└── README.md
+├── README.md                   # 中文说明
+└── README.en.md                # English README
 ```
 
 ---
